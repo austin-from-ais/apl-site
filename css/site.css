@@ -492,27 +492,11 @@ h3 { font-size: 1.35rem; font-weight: 600; line-height: 1.25; }
 .person h3 { font-size: 1.05rem; }
 .person .role { font-size: 0.88rem; color: var(--muted); }
 
-/* Former staff / alumni — compact name list */
-.name-list {
-  list-style: none;
-  columns: 3;
-  column-gap: 2.5rem;
-  max-width: 860px;
-}
-@media (max-width: 860px) { .name-list { columns: 2; } }
-@media (max-width: 520px) { .name-list { columns: 1; } }
-
-.name-list li {
-  break-inside: avoid;
-  padding: 0.65rem 0;
-  border-bottom: 1px solid var(--line);
-  font-weight: 700;
-}
-.name-list li span {
-  display: block;
-  font-weight: 400;
-  font-size: 0.85rem;
+.person .bio {
+  font-size: 0.88rem;
   color: var(--muted);
+  margin-top: 0.45rem;
+  line-height: 1.5;
 }
 
 /* --------------------------------------------------------------------------
