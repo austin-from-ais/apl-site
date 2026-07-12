@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Agentic Pedagogy Lab — University of Florida
+   Agentic Pedagogy Research Group — University of Florida
    Design tokens + site styles
    ========================================================================== */
 
@@ -312,7 +312,7 @@ h3 { font-size: 1.35rem; font-weight: 600; line-height: 1.25; }
 .band-dark a:hover { color: var(--uf-orange); }
 
 /* --------------------------------------------------------------------------
-   Pillars (home: Lab / PATHS / Research)
+   Pillars (home: Group / PATHS / Research)
    -------------------------------------------------------------------------- */
 
 .pillars {

@@ -1,4 +1,4 @@
-// Agentic Pedagogy Lab — shared site behavior
+// Agentic Pedagogy Research Group — shared site behavior
 
 // Mobile nav toggle
 const toggle = document.querySelector(".nav-toggle");

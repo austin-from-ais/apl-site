@@ -1,13 +1,13 @@
-# Agentic Pedagogy Lab — Website
+# Agentic Pedagogy Research Group — Website
 
-Static site for UF's Agentic Pedagogy Lab. No build step — open `index.html`
+Static site for UF's Agentic Pedagogy Research Group. No build step — open `index.html`
 in a browser, or serve the folder with any static server.
 
 ## Structure
 
 ```
 index.html      Home — hero, three pillars, featured research, PATHS band
-research.html   Research product catalog (APL-### cards) + publications stub
+research.html   Research product catalog (APG-### cards) + publications
 paths.html      PATHS program — step-by-step "path", logistics, cohort CTA
 people.html     Faculty/staff + student grids
 about.html      Mission, contact, visit, partner, newsletter
@@ -25,7 +25,7 @@ js/main.js      Mobile nav, scroll reveals, hero path animation
   Loaded from Google Fonts.
 - **Signature motif**: the *path* — an orange stroke drawn under the hero
   headline, and the connected step-line on the PATHS page. Research products
-  are indexed like a course catalog (`APL-001`, `APL-002`, …).
+  are indexed like a course catalog (`APG-001`, `APG-002`, …).
 
 ## Filling in content
 
